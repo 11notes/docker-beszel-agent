@@ -3,7 +3,7 @@
   "name": "beszel-agent",
   "root": "/beszel",
   "semver": {
-    "version": "0.15.3"
+    "version": "0.15.4"
   },
   "readme": {
     "description": "Run beszel-agent rootless and distroless.",
