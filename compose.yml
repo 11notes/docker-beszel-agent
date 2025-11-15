@@ -38,7 +38,7 @@ services:
       hub:
         condition: "service_healthy"
         restart: true
-    image: "11notes/beszel-agent:0.16.0"
+    image: "11notes/beszel-agent:0.16.1"
     <<: *lockdown
     environment:
       TZ: "Europe/Zurich"
